@@ -10,6 +10,6 @@ public class Main {
         }else if (n1 != n2){
             System.out.println("n1 é diferente de n2 porque a sobra foi de " + (n2 - n1 ));
         }
-
+//
     }
 }
